@@ -18,6 +18,13 @@ Or install it yourself as:
 
     $ gem install catlass
 
+## Configuration
+Set your Cloud Automator API key to `CA_API_KEY` environment variable.
+
+```shell
+export CA_API_KEY=$YOUR_API_KEY
+```
+
 ## Usage
 
 ### Comands
